@@ -6,7 +6,6 @@ import org.springframework.stereotype.Component;
 /**
  * @author Boris Pérez
  */
-//TODO Find a better way to read global properties
 @Component
 public class Config {
 

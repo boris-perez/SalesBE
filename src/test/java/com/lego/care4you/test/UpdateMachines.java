@@ -18,7 +18,6 @@ import org.springframework.test.context.junit4.rules.SpringMethodRule;
 
 @ContextConfiguration(classes = {Config.class})
 @TestPropertySource("classpath:application.properties")
-//TODO Export static variables to enum
 public class UpdateMachines {
 
     private String idMachine;
